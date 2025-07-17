@@ -12,9 +12,13 @@
   "app": {
     "windows": [
       {
-        "title": "file-explorer",
+        "title": "File Explorer",
         "width": 800,
-        "height": 600
+        "height": 600,
+        "backgroundColor": "#252525",
+        "maximized": true,
+        "hiddenTitle": true,
+        "decorations": false
       }
     ],
     "security": {

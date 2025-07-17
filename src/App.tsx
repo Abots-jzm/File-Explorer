@@ -9,7 +9,7 @@ function App() {
   // }
 
   return (
-    <main className="h-screen grow bg-gray-900 text-white">
+    <main className="bg-background h-screen grow text-white">
       <Header />
     </main>
   );
